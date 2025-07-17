@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "vscode-extension-refactor-suggestions-for-code-comments-cmd67627"
+version = "0.1.0"
+description = "Uses local ML or regex-based AI"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.111.1"
+uvicorn = "^0.30.3"
+pydantic = "^2.8.2"
+python-multipart = "^0.0.9"
+streamlit = "^1.36.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

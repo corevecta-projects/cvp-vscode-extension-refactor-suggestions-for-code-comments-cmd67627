@@ -1,0 +1,15 @@
+{
+  "language": "Python",
+  "framework": "FastAPI",
+  "buildTools": [
+    "Poetry",
+    "pip"
+  ],
+  "uiLibrary": "Streamlit",
+  "storage": [
+    "PostgreSQL",
+    "Redis"
+  ],
+  "mlRuntime": "PyTorch",
+  "updatedAt": "2025-07-17T17:38:10.177Z"
+}

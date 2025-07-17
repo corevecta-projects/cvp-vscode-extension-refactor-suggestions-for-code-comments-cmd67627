@@ -1,0 +1,50 @@
+{
+  "project": {
+    "id": "cmd676277000lqjs9pego6gyx",
+    "name": "Refactor suggestions for code comments",
+    "description": "Uses local ML or regex-based AI",
+    "useCase": "Refactor suggestions for code comments",
+    "uniqueAngle": "Uses local ML or regex-based AI",
+    "whyElite": "",
+    "createdAt": "2025-07-16T16:50:17.636Z",
+    "updatedAt": "2025-07-16T17:05:28.542Z"
+  },
+  "platform": {
+    "id": "cmd676273000iqjs9xq1zdy5s",
+    "name": "VSCode Extension",
+    "slug": "vscode-extension"
+  },
+  "category": {
+    "id": "cmd676275000jqjs9z4e3iet5",
+    "name": "AI & Machine Learning",
+    "slug": "ai-machine-learning"
+  },
+  "targetUsers": [
+    {
+      "id": "cmd67625q0005qjs9qhhtngjl",
+      "slug": "developers",
+      "name": "Developers",
+      "description": null,
+      "createdAt": "2025-07-16T16:50:17.583Z",
+      "updatedAt": "2025-07-16T17:05:27.557Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": "cmd67625w0006qjs9p4i68g1j",
+      "slug": "defi",
+      "name": "DeFi",
+      "category": "FEATURE",
+      "createdAt": "2025-07-16T16:50:17.589Z",
+      "updatedAt": "2025-07-16T17:05:28.435Z"
+    },
+    {
+      "id": "cmd67626l000dqjs943iviota",
+      "slug": "local-first",
+      "name": "Local-First",
+      "category": "FEATURE",
+      "createdAt": "2025-07-16T16:50:17.613Z",
+      "updatedAt": "2025-07-16T17:05:28.437Z"
+    }
+  ]
+}

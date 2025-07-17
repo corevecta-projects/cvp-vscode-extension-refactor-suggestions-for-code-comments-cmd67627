@@ -1,0 +1,86 @@
+{
+  "id": "cmd68oi8f000dqjs6d9em1qti",
+  "projectId": "cmd676277000lqjs9pego6gyx",
+  "analyzedAt": "2025-07-16T17:32:37.839Z",
+  "analysisVersion": "1.0",
+  "promptVersion": "1.0",
+  "featureSpecs": {
+    "coreFeatures": [],
+    "technicalSpecs": {},
+    "advancedFeatures": []
+  },
+  "userStories": {
+    "edgeCases": [],
+    "onboarding": {},
+    "accessibility": {},
+    "primaryStories": []
+  },
+  "userFlows": {
+    "uiLayout": {},
+    "primaryJourney": [],
+    "informationArchitecture": {}
+  },
+  "implementation": {
+    "techStack": {},
+    "storageStrategy": {},
+    "dataArchitecture": {},
+    "offlineArchitecture": {},
+    "performanceOptimization": {}
+  },
+  "monetization": {
+    "revenueModel": {},
+    "featureGating": {},
+    "licenseImplementation": {}
+  },
+  "extensibility": {
+    "powerUserFeatures": {},
+    "userCustomization": {},
+    "pluginArchitecture": {}
+  },
+  "validation": {
+    "qualityMetrics": {},
+    "testingStrategy": {},
+    "feedbackMechanisms": {}
+  },
+  "security": {
+    "securityMeasures": {},
+    "antiPiracyMeasures": {},
+    "privacyImplementation": {},
+    "complianceRequirements": {}
+  },
+  "goToMarket": {
+    "growthTactics": {},
+    "launchStrategy": {},
+    "uniqueSellingPoints": [],
+    "targetMarketAnalysis": {}
+  },
+  "roadmap": {
+    "phases": [],
+    "successMetrics": {}
+  },
+  "createdAt": "2025-07-16T17:32:37.839Z",
+  "updatedAt": "2025-07-16T17:32:37.839Z",
+  "techStack": {
+    "id": "cmd68oi8h000fqjs6j96fnga5",
+    "blueprintId": "cmd68oi8f000dqjs6d9em1qti",
+    "framework": "React",
+    "language": "TypeScript",
+    "buildTools": [
+      "Vite"
+    ],
+    "storage": [
+      "IndexedDB"
+    ],
+    "mlRuntime": null,
+    "uiLibrary": "Tailwind CSS",
+    "loadTimeTarget": null,
+    "memoryLimit": null,
+    "offlineStorage": null,
+    "createdAt": "2025-07-16T17:32:37.842Z"
+  },
+  "features": [],
+  "userPersonas": [],
+  "pricePoints": [],
+  "competitors": [],
+  "milestones": []
+}
